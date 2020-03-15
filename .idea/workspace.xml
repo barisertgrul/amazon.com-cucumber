@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="463395aa-08c1-41b0-a587-c71a4432f054" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XufK93XCslxm4UwuueFLCVkvX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/PageObject" />
+      <recent name="$PROJECT_DIR$/src/test/java/StepDefinition" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="All Features in: insider-challange-master" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="amazon-challenge" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="All Features in: insider-challange-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in insider-challenge (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="amazon-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in insider-challenge (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="amazon-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in insider-challenge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="amazon-challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="amazon-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.All Features in: insider-challange-master" />
+        <item itemvalue="JUnit.All in insider-challenge (2)" />
+        <item itemvalue="JUnit.All in insider-challenge (1)" />
+        <item itemvalue="JUnit.All in insider-challenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="463395aa-08c1-41b0-a587-c71a4432f054" name="Default Changelist" comment="" />
+      <created>1581900834321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581900834321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="-863" key="#Project_Structure" timestamp="1583452754705">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="352" y="-863" key="#Project_Structure/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583452754705" />
+    <state x="423" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583411387631">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="423" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.842@0.23.1440.842" timestamp="1583411387631" />
+    <state x="440" y="-794" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583429288439">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="440" y="-794" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583429288439" />
+    <state width="1878" height="301" key="GridCell.Tab.0.bottom" timestamp="1583473258622">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="301" key="GridCell.Tab.0.bottom/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583473258622" />
+    <state width="939" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/-208.-1057.1920.1022@-208.-1057.1920.1022" timestamp="1583449014190" />
+    <state width="1878" height="301" key="GridCell.Tab.0.center" timestamp="1583473258621">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="301" key="GridCell.Tab.0.center/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583473258621" />
+    <state width="939" height="290" key="GridCell.Tab.0.center/0.23.1440.877/-208.-1057.1920.1022@-208.-1057.1920.1022" timestamp="1583449014189" />
+    <state width="1878" height="301" key="GridCell.Tab.0.left" timestamp="1583473258620">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="301" key="GridCell.Tab.0.left/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583473258620" />
+    <state width="939" height="290" key="GridCell.Tab.0.left/0.23.1440.877/-208.-1057.1920.1022@-208.-1057.1920.1022" timestamp="1583449014188" />
+    <state width="1878" height="301" key="GridCell.Tab.0.right" timestamp="1583473258622">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="301" key="GridCell.Tab.0.right/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583473258622" />
+    <state width="939" height="290" key="GridCell.Tab.0.right/0.23.1440.877/-208.-1057.1920.1022@-208.-1057.1920.1022" timestamp="1583449014189" />
+    <state x="261" y="-890" key="SettingsEditor" timestamp="1583452410903">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="261" y="-890" key="SettingsEditor/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583452410903" />
+    <state x="-108" y="-957" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583472883404">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-108" y="-957" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583472883404" />
+    <state x="0" y="23" width="1440" height="719" key="dock-window-1" timestamp="1583436791291">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="0" y="23" width="1440" height="719" key="dock-window-1/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583436791291" />
+    <state x="0" y="23" width="1440" height="719" key="dock-window-2" timestamp="1583437397812">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="0" y="23" width="1440" height="719" key="dock-window-2/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583437397812" />
+    <state x="94" y="-997" width="1440" height="719" key="dock-window-3" timestamp="1583445527626">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="94" y="-997" width="1440" height="719" key="dock-window-3/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583445527626" />
+    <state x="511" y="-600" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583460586344">
+      <screen x="-208" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="511" y="-600" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1440.842/-208.-1057.1920.1057@-208.-1057.1920.1057" timestamp="1583460586344" />
+  </component>
+</project>
