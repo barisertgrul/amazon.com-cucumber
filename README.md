@@ -18,20 +18,4 @@ gösterimde olduğunu onaylayacak
 - Sayfada bu ürünün artık favorilere alınmadığını onaylayacak.
 - Bu task için Java veya C# programlama dillerinden biri kullanılabilir. Otomasyon
 yapısı tercihen selenium web driver’da cucumber kullanılmasıdır.
-2- Alttaki senaryo testini istediğiniz bir ortamda gerçekleyiniz.
-- https://petstore.swagger.io url üzerinde belirtilmiş olan open api’ları kullanarak caseleri yazabilirsiniz.
-- Bir user create edilecek.
-- Create edilen user’ın username ve password bilgileri kullanılarak kullanıcı bilgileri
-getirilecek.
-- Status : Available olan bir pet create edilecek.
-- Status : Sold olan bir pet daha create edilecek.
-- Available olan petlerin listesi getirilecek ve bu liste içinde Sold olan petlerin listesi
-olmayacak.
-- Available olan pet’in id'si kullanılarak ilgili pet’in dataları getirilecek.
-- Aynı pet id kullanılarak 1 adet ve id’si 1 olan bir pet sipariş edilecek.
-- Order id’sini 1 verdiğimiz Pet’in satınalma siparişi bulanacak ve doğru siparişin
-bulunup bulunmadığı kontrol edilecek.
-- Kullanılan pet silinecek.
-- Silinen Pet’i pet id kullanarak Get isteği atıp dönen response’dan Pet’in silinmiş
-olduğu dorulanacak.
   # amazon.com-cucumber
